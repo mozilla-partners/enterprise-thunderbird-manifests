@@ -6,5 +6,5 @@
   <project name="repack-scripts" path="scripts" remote="mozilla-partners" revision="master"/>
   <project name="build-tools" path="scripts/tools" remote="mozilla" revision="master"/>
   <project name="enterprise-repacks" path="partners/moz" remote="mozilla-partners" revision="3832dbb1fcac67de1ab950bbe72e6696c237ea5e"/>
-  <project name="enterprise-repacks-hosted" path="partners/hosted" remote="mozilla-partners" revision="4f1aa58e083aeaef0735b2aed536e3428079a402"/>
+  <project name="enterprise-repacks-hosted" path="partners/hosted" remote="mozilla-partners" revision="caca0858b8ffd43daef9a52d5cbc0bd4e9c9562e"/>
 </manifest>
